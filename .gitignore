@@ -1,0 +1,3 @@
+config/angel_one_credentials.json
+*.log
+__pycache__/
