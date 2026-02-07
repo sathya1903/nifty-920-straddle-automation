@@ -12,6 +12,3 @@ This project is a fully automated, event-driven intraday trading system that exe
 - Rule-based decision making
 - Scheduled task execution
 - Real-time risk management
-
-## 🎯 Why this project
-While the domain is financial markets, the core focus is on automation, system design, and real-time data handling, making it relevant for AI / backend / automation engineering roles.
